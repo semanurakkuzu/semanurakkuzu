@@ -29,7 +29,7 @@
 </p>
 <br>
 <p align="center">
-<img src="https://www.happylifecreators.com/wp/wp-content/uploads/2022/06/chakra-ui_title2-400x400.png" width="65">
+<img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="65">
 <img src="https://v4.material-ui.com/static/logo.png" width="65">
 </p>
 
